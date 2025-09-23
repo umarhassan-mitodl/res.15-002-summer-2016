@@ -1,0 +1,55 @@
+leftnav:
+- identifier: bad66661-53cd-ea6f-63bd-1e83e178f5e5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 95a3d99b-4964-c421-a20e-eb84f9477109
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
+  name: Sessions
+  pageRef: /pages/sessions/
+  weight: 30
+- identifier: 6712229f-d71f-3221-ea88-ce00d32d3866
+  name: 'Session 1: Program Objectives'
+  pageRef: /pages/sessions/session-1-program-objectives-understanding-mission-and-how-best-to-achieve-it
+  parent: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
+  weight: 40
+- identifier: 4215d186-7d4f-8eba-8477-4b8d85ec43fc
+  name: 'Session 2: Considerations in Program and Product Design'
+  pageRef: /pages/sessions/session-2-considerations-in-program-and-product-design
+  parent: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
+  weight: 50
+- identifier: 219fe568-e41d-dc10-9cf5-bce77c008a10
+  name: 'Session 3: Valuation and Subsidy Measures'
+  pageRef: /pages/sessions/session-3-valuation-and-subsidy-measures
+  parent: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
+  weight: 60
+- identifier: 6907be93-d863-028a-af71-629ccb976e53
+  name: 'Session 4: Credit Portfolio Costs and Managing Performance'
+  pageRef: /pages/sessions/session-4-credit-portfolio-costs-and-managing-performance
+  parent: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
+  weight: 70
+- identifier: c6c2c186-1456-9ef4-75ed-ce90dbaf7325
+  name: 'Session 5: Working with Private Partners'
+  pageRef: /pages/sessions/session-5-working-with-private-partners
+  parent: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
+  weight: 80
+- identifier: 856a7838-32ca-9db7-9ae5-863e83acc3cc
+  name: 'Session 6: Case Studies'
+  pageRef: /pages/sessions/session-6-case-studies
+  parent: c5cf8c5e-59b0-bc3e-51ba-6284d467e6d6
+  weight: 90
+- identifier: 029d4591-7a8c-3e6c-daef-9b7a067f756e
+  name: Tools
+  pageRef: /pages/tools
+  weight: 100
+- identifier: 62908a25-aaef-3bfa-b106-5898ed2d8f72
+  name: Related Readings
+  pageRef: /pages/readings
+  weight: 110
+- identifier: f6ccc6d8-2b74-032d-508e-eae78f9076bf
+  name: Practices and Innovations
+  pageRef: /pages/practices-and-innovations
+  weight: 120
