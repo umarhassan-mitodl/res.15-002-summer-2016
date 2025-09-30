@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides meeting times, prerequisites, an overview of the
   course and the session topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
@@ -23,7 +25,7 @@ About
 
 The content in this resource is based on a short program designed by the MIT Golub Center for Finance and Policy (GCFP): An invitation-only course with two days of classroom instruction and online learning materials.
 
-The GCFP serves as a catalyst for innovative, cross-disciplinary and non-partisan research and educational initiatives addressing the unique challenges facing governments in their role as financial institutions and as regulators of the financial system. {{% resource_link "de8ab5b6-d2bb-4468-ba9f-31adad959317" "Learn more at the GCFP website" %}}.
+The GCFP serves as a catalyst for innovative, cross-disciplinary and non-partisan research and educational initiatives addressing the unique challenges facing governments in their role as financial institutions and as regulators of the financial system. [Learn more at the GCFP website](http://cfpweb.mit.edu).
 
 Overview
 --------

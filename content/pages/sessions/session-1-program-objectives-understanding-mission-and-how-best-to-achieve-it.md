@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains the description and materials for Session 1: Program
   Objectives. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides information about various tools and financial software.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: SupplementalResourceSection
