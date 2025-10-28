@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section lists various readings for the resource.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Related Readings

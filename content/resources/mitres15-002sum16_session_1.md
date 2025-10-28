@@ -4,8 +4,6 @@ description: Slide deck for session 1.
 file: /courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/e3d14fc3d22bc05a0a1799df0fd1eb56_MITRES15-002SUM16_Session_1.pdf
 file_size: 636181
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

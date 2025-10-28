@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section contains the description and materials for Session 4: Credit
   Portfolio Costs and Managing Performance.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Sessions

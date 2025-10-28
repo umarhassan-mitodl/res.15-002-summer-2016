@@ -4,8 +4,6 @@ description: Title slate for session 3.
 file: /courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/ed32ebd86612ff03198ad321fbc0c49e_RES15-002_Session_3.jpg
 file_size: 64890
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

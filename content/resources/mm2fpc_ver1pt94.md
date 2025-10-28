@@ -4,8 +4,6 @@ description: Excel financial scenario calculator.
 file: /courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/d4d679ed79ff6a833da418888e4ff4d5_MM2FPC_ver1pt94.xlsx
 file_size: 2516670
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
